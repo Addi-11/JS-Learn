@@ -113,4 +113,4 @@ function animate(){
 }
 init();
 animate();
-
+var canvas = document.getElementById("myCanvas");

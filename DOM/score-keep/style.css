@@ -1,0 +1,10 @@
+body {
+	margin:0;
+	padding:0;
+	background-image: linear-gradient(to right, aquamarine, blue);
+	font-family: 'Courier New', Courier, monospace;
+}
+.container {
+	margin-top: 300px;
+	text-align: center;
+}
